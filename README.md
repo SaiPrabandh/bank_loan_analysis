@@ -1,6 +1,4 @@
 # bank_loan_analysis
-# Loan Data Analysis Project
-
 ## 📌 Overview
 This project is focused on analyzing loan application data to understand lending trends, borrower profiles, loan quality, and repayment behavior.  
 The work is being done in three phases:
